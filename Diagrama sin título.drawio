@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T17:05:53.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="S47jSaJCldshsoMYWt2m" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T17:13:20.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="sI3eZvyN46weLSb9Qp8c" version="21.3.2" type="github">
   <diagram name="Página-1" id="LDBdHK_t5nrsPzFhc7is">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,7 +364,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AdBYq1xFmMbyyhqE8FVt-45" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="554" y="971" width="32" height="37.54" as="geometry" />
+          <mxGeometry x="554" y="973" width="32" height="37.54" as="geometry" />
+        </mxCell>
+        <mxCell id="AdBYq1xFmMbyyhqE8FVt-48" value="&lt;b&gt;Criterios:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Se establece que cada cliente deba tener 2 cupones de recomendación y 1 cupón de recompensa.&lt;/li&gt;&lt;li&gt;Se establece que si un cliente no es acreedor de 1 cupón de recompensa entonces se le asigna 3 cupones de recomendación&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="953.27" width="301" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="AdBYq1xFmMbyyhqE8FVt-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="459" y="991.27" as="sourcePoint" />
+            <mxPoint x="519" y="991.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdBYq1xFmMbyyhqE8FVt-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AdBYq1xFmMbyyhqE8FVt-50" target="AdBYq1xFmMbyyhqE8FVt-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AdBYq1xFmMbyyhqE8FVt-50" value="Base de Clientes con cupones de recomendación y recompensa correspondientes" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=7;" vertex="1" parent="1">
+          <mxGeometry x="456" y="1050" width="330" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
